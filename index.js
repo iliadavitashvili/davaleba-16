@@ -111,6 +111,8 @@
 // p.classList ="text"
 // p.textContent ="hello world"
 
+// document.body.appendChild(div)
+
 // დავალება 2 
 // შექმენით 5 ელემენტიანი მასივი, რომელსაც ჯავასკრიპტით  li ტეგების შიგნით დაარენდერებთ:
 
@@ -131,7 +133,7 @@
 
 // const lists = arr.map(element =>{
 //     return `<li>${element}</li>`
-// }).join(" ")
+// }).join("")
 
 // ul.innerHTML = lists
 
